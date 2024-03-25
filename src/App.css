@@ -1,0 +1,17 @@
+.main {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#light {
+  background: #fff;
+}
+
+#light h1,
+#light p {
+  color: #000;
+}
